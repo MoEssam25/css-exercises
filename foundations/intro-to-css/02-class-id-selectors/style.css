@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.number1{
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 30px;
+}
+
+#number2{
+    color: blue;
+    font-size: 45px;
+
+}
+
+.number1.n3{
+    font-size: 42px;
+}
+
+#number4{
+    font-size: 43px;
+    font-weight: bold;
+    background-color: greenyellow;
+}
